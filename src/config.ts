@@ -48,9 +48,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'assets/images/corvus.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: 'Corvus DDoSKrom',
+  bio: 'Pentester Red Team / E|HE EC-Council / CTF Player',
   links: [
     {
       name: 'Twitter',
@@ -60,9 +60,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://x.com/corvus_ddoskrom',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'Linkedin',
+      icon: 'fa6-brands:linkedin',
+      url: 'https://www.linkedin.com/in/rafael-morinigo-1637491bb/',
     },
     {
       name: 'GitHub',
